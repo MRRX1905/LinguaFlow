@@ -1,0 +1,6 @@
+{
+  "name": "LinguaFlow - Real-Time AI Language Partner",
+  "description": "Master conversational fluency with a real-time conversational AI language partner powered by Gemini Live voice streaming, interactive scenarios, and instant feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
